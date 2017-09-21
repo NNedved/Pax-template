@@ -1,6 +1,6 @@
 # Pax template
 
-Страница сверстана по PSD-файлу, взятому [отсюда](http://www.graphicsfuel.com/2013/07/bluebox-flat-website-psd-templates-design/).
+Страница сверстана по PSD-файлу, взятому [отсюда](https://symu.co/freebies/templates-4/pax-psd-template/).
 
 Использовано:
 * HTML5 семантическая верстка
